@@ -1,6 +1,6 @@
 # testingGit
-Testing repo for git merge POC
-git clone 'ssh-url'
+Testing repo for git merge POC<br/>
+git clone 'ssh-url'<br/>
 git checkout -b 'your_branch_name'
 
 
